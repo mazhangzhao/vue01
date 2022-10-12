@@ -1,0 +1,227 @@
+{
+    "navList": [
+        "推荐",
+        "VIP",
+        "畅销书",
+        "男生",
+        "女生",
+        "儿童",
+        "相声说书",
+        "历史",
+        "人文",
+        "励志",
+        "头条",
+        "新闻",
+        "情感生活",
+        "财经频道"
+    ],
+    "showList": {
+        "img": "https://imgbed.link/file/2019",
+        "icons": [
+            {
+                "icon": "https://imgbed.link/file/2408",
+                "title": "排行旁"
+            },
+            {
+                "icon": "https://imgbed.link/file/2409",
+                "title": "精品"
+            },
+            {
+                "icon": "https://imgbed.link/file/2410",
+                "title": "活动"
+            },
+            {
+                "icon": "https://imgbed.link/file/2411",
+                "title": "上新"
+            },
+            {
+                "icon": "https://imgbed.link/file/2412",
+                "title": "免费"
+            }
+        ]
+    },
+    "MembersBookList": [
+        {
+            "id": "0001",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_22247838401371304/180",
+            "title": "和顶流结婚后上了孕吐热搜",
+            "bookType": "会员专享",
+            "path": "MembersBookList",
+            "content": "杀青庆功宴喝醉的蔡菁拉着小鲜肉去领了证。醒来的蔡菁恨不得一头撞死自己，一不做二不休直接当什么事也没发生。",
+            "author": "解放西荔枝",
+            "type": [
+                "现代言情",
+                "娱乐明星"
+            ],
+            "blues": "2504",
+            "score": "9.2",
+            "state": "连载中",
+            "count": 234.2,
+            "subscription": "8.4"
+        },
+        {
+            "id": "0002",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_23249523009849604/180",
+            "title": "快穿白月光她拿了反派剧本",
+            "bookType": "会员专享",
+            "path": "MembersBookList",
+            "content": "她被一个系统救下，作为交换她需要去各个位面干掉男女主，帮助反派取得最终胜利。作为原男主心中的白月光，她干的却全都是反派的活",
+            "author": "荨浅浅",
+            "type": [
+                "科幻空间",
+                "时空穿梭"
+            ],
+            "blues": "2102",
+            "score": "9.5",
+            "state": "连载中",
+            "count": 373.1,
+            "subscription": "4.7"
+        },
+        {
+            "id": "0003",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_22109307301720304/180",
+            "title": "重生后，摄政王他不肯退婚",
+            "bookType": "会员专享",
+            "path": "MembersBookList",
+            "content": "世人皆知沈家嫡女沈清漪，生的钟灵毓秀，仙姿佚貌，可惜眼神不太好。放着温润若玉的摄政王不爱，偏偏去爱那个金玉其外败絮其中的梁王赵宪。",
+            "author": "鹤舞流光",
+            "type": [
+                "古代言情",
+                "古典架空"
+            ],
+            "blues": "1890",
+            "score": "9.3",
+            "state": "连载中",
+            "count": 451.2,
+            "subscription": "3.2"
+        },
+        {
+            "id": "0005",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_22313302009382504/180",
+            "title": "致命热恋",
+            "bookType": "会员专享",
+            "path": "MembersBookList",
+            "content": "安桐遭逢家庭剧变，罹患情感障碍，且时常出现严重的情感剥离现象。容慎，名满香江且富可敌国的神秘家族继承人。",
+            "author": "漫西",
+            "type": [
+                "现代言情",
+                "豪门世家"
+            ],
+            "blues": "1464",
+            "score": "9.7",
+            "state": "连载中",
+            "count": 312.7,
+            "subscription": "10.2"
+        }
+    ],
+    "goodBookList": [
+        {
+            "id": "0011",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_8263527304935303/180",
+            "title": "恰似寒光遇骄阳",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "一觉醒来，她看着镜子里的自己， 爆炸头血腥纹身脸化得像鬼，多看一秒都辣眼睛。重生前，她另有所爱，一心逃离，对他恨之入骨。",
+            "author": "囧囧有妖",
+            "type": [
+                "现代言情",
+                "豪门世家"
+            ],
+            "blues": "2504",
+            "score": "9.1",
+            "state": "连载中",
+            "count": 373.1,
+            "subscription": "10.2"
+        },
+        {
+            "id": "0012",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_3675832204934203/180",
+            "title": "天医凤九",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "杀青庆功宴喝醉的蔡菁拉着小鲜肉去领了证。醒来的蔡菁恨不得一头撞死自己，一不做二不休直接当什么事也没发生。",
+            "author": "解放西荔枝",
+            "type": [
+                "现代言情",
+                "穿越奇情"
+            ],
+            "blues": "5238",
+            "score": "9.3",
+            "state": "连载中",
+            "count": 543.1,
+            "subscription": "33.2"
+        },
+        {
+            "id": "0013",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_4818982104534803/180",
+            "title": "许你万丈光芒好",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "“你救了我，我让我爹地以身相许！”,宁夕意外救了只小包子，结果被附赠了一只大包子。",
+            "author": "囧囧有妖",
+            "type": [
+                "现代言情",
+                "豪门世家"
+            ],
+            "blues": "2171",
+            "score": "9.2",
+            "state": "连载中",
+            "count": 332.1,
+            "subscription": "23.5"
+        },
+        {
+            "id": "0014",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_9743170703944503/180",
+            "title": "别闹，薄先生！",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "沈小姐忙着吃饭， 睡觉， 教渣渣如何做人！薄先生忙着追沈小姐，追沈小姐， 还是追沈小姐！“不都说薄执行长清心寡欲谦谦君子吗？”",
+            "author": "楠楠李",
+            "type": [
+                "现代言情",
+                "豪门世家"
+            ],
+            "blues": "2090",
+            "score": "9.2",
+            "state": "连载中",
+            "count": 573.1,
+            "subscription": "13.5"
+        },
+        {
+            "id": "0015",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_5500591004849403/90",
+            "title": "国民校草是女生",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "表面上她是个废柴。实际上她是众神追捧的z。女扮男装，横霸游戏， 当人们知道“他”是女生时，全民沸腾了！全薄九：“秦大神，有女朋友吗？”全秦漠放下笔记本：“没有。”",
+            "author": "战七少",
+            "type": [
+                "现代言情",
+                "都市生活"
+            ],
+            "blues": "1770",
+            "score": "9.2",
+            "state": "连载中",
+            "count": 173.1,
+            "subscription": "8.2"
+        },
+        {
+            "id": "0016",
+            "img": "https://bookcover.yuewen.com/qdbimg/349573/c_4850509704088803/180",
+            "title": "卦妃天下",
+            "bookType": "好书推荐",
+            "path": "goodBookList",
+            "content": "本文已由悦读纪出版，出版名《盛世繁华为君倾》，当当淘宝都可购买。夜摇光，风水世家传人，一眼看贫贵，一卦晓祸福，一言论生死！就算穿越成为古代农户小媳妇，她一样可以财源广进，风生水起！",
+            "author": "锦凰",
+            "type": [
+                "现代言情",
+                "穿越奇情"
+            ],
+            "blues": "2047",
+            "score": "9.2",
+            "state": "连载中",
+            "count": 237.3,
+            "subscription": "12.2"
+        }
+    ]
+}

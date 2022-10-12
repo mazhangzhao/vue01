@@ -1,0 +1,154 @@
+{
+    "goodBookList": [
+        {
+            "id": "0011",
+            "directory": [
+                {
+                    "title": "重生卷",
+                    "directoryName": "重生",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "一定会有办法",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "前未婚夫",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "蠢得可怜",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "做回自己",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "昨晚干嘛去了",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "这话如此耳熟",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "你去整容了？",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "差点丑一辈子",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "是不是吓到你们了",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "重生卷",
+                    "directoryName": "饿着你了？",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                }
+            ]
+        }
+    ],
+    "MembersBookList": [
+        {
+            "id": "0001",
+            "directory": [
+                {
+                    "title": "正文卷",
+                    "directoryName": "孕吐热搜",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "实锤？",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "协议结婚",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "老婆，红豆沙趁热吃",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "又上热搜",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "厌食症",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "情敌较量",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "能陪我睡会吗？",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "原来你喜欢这样的小奶狗",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "我们结婚吧",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "把孩子拿掉",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                },
+                {
+                    "title": "正文卷",
+                    "directoryName": "贿赂",
+                    "duration": "10:20",
+                    "date": "2019-01-23"
+                }
+            ]
+        }
+    ]
+}
